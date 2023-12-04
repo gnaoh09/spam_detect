@@ -1,4 +1,5 @@
 # spam_detect
+## data from kaggle: https://www.kaggle.com/code/mfaisalqureshi/email-spam-detection-98-accuracy
 1.	Biến data gán cho hàm đọc file csv.
 2.	Các biến emails và lables để chứa dữ liệu từ các cột Message và Catgory tương ứng trong file csv.
 3. 	Hàm train_test_split() dùng để chia dữ liệu thành tập huấn luyện và tập thử với kích thước thử là 20% và
